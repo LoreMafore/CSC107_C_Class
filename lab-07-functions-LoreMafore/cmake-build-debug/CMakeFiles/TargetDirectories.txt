@@ -1,0 +1,3 @@
+C:/Users/momer/lab-07-functions-LoreMafore/cmake-build-debug/CMakeFiles/lab_07_functions_LoreMafore.dir
+C:/Users/momer/lab-07-functions-LoreMafore/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/momer/lab-07-functions-LoreMafore/cmake-build-debug/CMakeFiles/rebuild_cache.dir
