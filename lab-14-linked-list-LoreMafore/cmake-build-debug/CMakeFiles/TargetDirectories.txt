@@ -1,0 +1,3 @@
+C:/Users/momer/CSC107_C_Class/lab-14-linked-list-LoreMafore/cmake-build-debug/CMakeFiles/lab_14_linked_list_LoreMafore.dir
+C:/Users/momer/CSC107_C_Class/lab-14-linked-list-LoreMafore/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/momer/CSC107_C_Class/lab-14-linked-list-LoreMafore/cmake-build-debug/CMakeFiles/rebuild_cache.dir
