@@ -1,0 +1,3 @@
+C:/Users/momer/lab-08-arrays-LoreMafore/cmake-build-debug/CMakeFiles/lab_08_arrays_LoreMafore.dir
+C:/Users/momer/lab-08-arrays-LoreMafore/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/momer/lab-08-arrays-LoreMafore/cmake-build-debug/CMakeFiles/rebuild_cache.dir
