@@ -1,0 +1,3 @@
+C:/Users/momer/lab-12-structures-LoreMafore/cmake-build-debug/CMakeFiles/lab_12_structures_LoreMafore.dir
+C:/Users/momer/lab-12-structures-LoreMafore/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/momer/lab-12-structures-LoreMafore/cmake-build-debug/CMakeFiles/rebuild_cache.dir
