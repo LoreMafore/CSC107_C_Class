@@ -1,0 +1,3 @@
+C:/Users/momer/lab-05-structured-programming-LoreMafore/cmake-build-debug/CMakeFiles/lab_05_structured_programming_LoreMafore.dir
+C:/Users/momer/lab-05-structured-programming-LoreMafore/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/momer/lab-05-structured-programming-LoreMafore/cmake-build-debug/CMakeFiles/rebuild_cache.dir
