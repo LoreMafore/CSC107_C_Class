@@ -1,0 +1,3 @@
+C:/Users/momer/CSC107_C_Class/lab-13-file-processing-LoreMafore/cmake-build-debug/CMakeFiles/lab_13_file_processing_LoreMafore.dir
+C:/Users/momer/CSC107_C_Class/lab-13-file-processing-LoreMafore/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/momer/CSC107_C_Class/lab-13-file-processing-LoreMafore/cmake-build-debug/CMakeFiles/rebuild_cache.dir
